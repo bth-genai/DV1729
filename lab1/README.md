@@ -1,5 +1,5 @@
 # Lab 1
-The examples in this folder require that you download models to your computer. The image generation examples use a specific folder structure for different models. This folder is ognorded in the .gitignore file becouse of the large size of the models. The structure is the following:
+The examples in this folder require that you download models to your computer. The image generation examples use a specific folder structure for different models. This folder is ignored in the .gitignore file because of the large size of the models. The structure is the following:
 
 data/DiffusionModels  
 data/FashionMNIST  
