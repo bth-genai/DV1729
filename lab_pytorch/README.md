@@ -1,4 +1,4 @@
-# Lab 2
+# Lab Pytorch
 Using pytorch
 
 tutorial_example.py is a slightly modified basic example from the Pytorch Quickstart (https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html). It is using the MNIST Fashion dataset (https://www.kaggle.com/code/texasdave/image-classification-tutorial-with-mnist-fashion)
