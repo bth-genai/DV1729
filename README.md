@@ -4,6 +4,8 @@ Course repo for DV1712/DV1729 lp3 VT26 Applied generative AI
 ## Installing the tools
 You will need a code editor. Visual studio code is a great alternative: https://code.visualstudio.com/
 
+Install git https://git-scm.com/install/ and accept the default suggestions.
+
 We will use Python for labs and assignments. It is recommended to run Python using a virtual environment. This way you will not have to manually handle different system-wide Python-installations.
 
 The example below will use uv, a very fast manager for both packages and projects (https://docs.astral.sh/uv/). Installation instructions: https://docs.astral.sh/uv/getting-started/installation/. You can however choose another tool to install virtual environments.
