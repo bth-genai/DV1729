@@ -1,4 +1,10 @@
 # Lab 1
+The examples in this folder require that you download models to your computer. The image generation examples use a specific folder structure for different models. This folder is ognorded in the .gitignore file becouse of the large size of the models. The structure is the following:
+
+data/DiffusionModels
+data/LoRAs
+
+
 ## LLM Discussion
 In the file llm_discussion.py two LLMs are made to discuss an inital question put by a user.
 
