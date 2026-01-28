@@ -2,7 +2,7 @@
 The examples in this folder require that you download models to your computer. The image generation examples use a specific folder structure for different models. This folder is ognorded in the .gitignore file becouse of the large size of the models. The structure is the following:
 
 data/DiffusionModels  
-data/FashinMNIST  
+data/FashionMNIST  
 data/LoRAs  
 
 ## LLM Discussion
