@@ -13,7 +13,13 @@ You also need to install Ollama (https://docs.ollama.com/quickstart/), and downl
 ollama pull llama3.2
 ```
 
-Create a folder in which you want to work with the lab. Using a terminal of your choice, navigate to that folder and run the following commands:
+If you want to clone this repository, you can use uv to initialize a project with the same dependenies. After downloading the repo, just run:
+
+``` bash
+uv sync
+```
+
+If you cloned the repository, skip to the example below. If you want to start from scratch, create a folder in which you want to work with the lab. Using a terminal of your choice, navigate to that folder and run the following commands:
 
 Create a uv project in that folder
 
@@ -38,6 +44,7 @@ Install Ollama wrappers for Python
 ``` bash
 uv add ollama
 ```
+### Example
 Now try a simple example. Edit the main.py file or create a new .py file.
 ``` python
 from ollama import chat
