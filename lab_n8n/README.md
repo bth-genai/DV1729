@@ -192,6 +192,7 @@ Here we connect to Ollama.
 1.  Click **"Execute Workflow"**.
 2.  The AI Agent might take a few seconds (running locally depends on your GPU/CPU).
 3.  Check if it correctly categorized the angry text as "NEGATIVE".
+4.  Try other email text to see if the agent categorizes them as you would.
 
 ### 💡 Troubleshooting WSL
 * **"command not found: npm"**: You likely skipped the `source` command or didn't restart the terminal. Try closing and reopening Ubuntu.
