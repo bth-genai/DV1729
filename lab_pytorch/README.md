@@ -41,7 +41,7 @@ In the previous step, you used a ready-made big dataset. Now, you will do the op
 Create a new file named `tensor_lab.py`.
 
 ### Step 2: The Code
-Copy the code below. Read the comments carefully—they explain exactly how Tensors and Gradients work.
+Copy the code below. Read the code and comments and try to explain exactly how Tensors and Gradients work.
 
 ```python
 import torch
