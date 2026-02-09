@@ -130,7 +130,7 @@ for epoch in range(epochs):
 # 4. TEST THE RESULTS
 # ---------------------------------------------------------
 print("\n--- Final Results ---")
-with torch.no_grad(): # We don't need to track gradients for testing
+with torch.no_grad(): # We use no_grad() here since we don't need to track gradients for testing
     test_input = torch.tensor([[1.0, 0.0], [1.0, 1.0]])
     prediction = model(test_input)
     
