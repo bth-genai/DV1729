@@ -154,4 +154,8 @@ uv run tensor_lab.py
 Look at the learned weights in the output. What weights did the model learn? Why do you think that is?
 
 # Continue on your own
+## Challenge: ##
+Change the dataset y to represent an OR gate instead (Output is 1 if any input is 1). Rerun the training. Does it learn as fast or faster or slower?
+If you instead try to "learn" an XOR gate, will it suffice with only 1 neuron?
+## More resources ##
 Feel free to continue learning about the basics of Pytorch: https://docs.pytorch.org/tutorials/beginner/basics/intro.html, it will give you a great insight in how neural networks and AI work.
